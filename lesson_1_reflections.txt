@@ -1,0 +1,7 @@
+By seeing the difference between the working program and the buggy version, we were able to spot the bug.
+
+The entire history gives you what worked and the changes that fucked up your code.
+
+Manually committing is good because you know when it should be saved. Autosaving works better when you are forgetful or in case of emergencies, such as the computer crashing.
+
+Because Git is coding-oriented, so it makes sense for it to have a feature to track multiple related files. Google Docs usually have independent files and autosaving feature.
